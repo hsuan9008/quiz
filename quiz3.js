@@ -14,3 +14,4 @@ data.fail(function (msg) {
     console.log(msg);
     $("#contain").html("fail getting data");
 });
+
